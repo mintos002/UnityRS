@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealSense", "RealSense.csproj", "{DD6F428B-6FD7-D396-848D-F082A772A183}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utils", "Utils.csproj", "{68C62501-6114-1E74-C71D-76A574D6B834}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "realsenseCapture1.Editor", "realsenseCapture1.Editor.csproj", "{0C6562CD-B978-BCEC-3884-BCC8AAF5A81C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD6F428B-6FD7-D396-848D-F082A772A183}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD6F428B-6FD7-D396-848D-F082A772A183}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD6F428B-6FD7-D396-848D-F082A772A183}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD6F428B-6FD7-D396-848D-F082A772A183}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68C62501-6114-1E74-C71D-76A574D6B834}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68C62501-6114-1E74-C71D-76A574D6B834}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68C62501-6114-1E74-C71D-76A574D6B834}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68C62501-6114-1E74-C71D-76A574D6B834}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C6562CD-B978-BCEC-3884-BCC8AAF5A81C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C6562CD-B978-BCEC-3884-BCC8AAF5A81C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C6562CD-B978-BCEC-3884-BCC8AAF5A81C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C6562CD-B978-BCEC-3884-BCC8AAF5A81C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
